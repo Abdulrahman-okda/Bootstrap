@@ -1,0 +1,11 @@
+*{
+    padding: 0px; margin: 0px;
+    box-sizing: border-box; 
+
+}
+header{
+    background-image:linear-gradient( rgba(0,0,0,.6) ,rgba(0,0,0,.6)   ) , url(../images/images/home.jpg);
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+}
