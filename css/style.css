@@ -9,3 +9,10 @@ header{
     background-size: cover;
     min-height: 100vh;
 }
+.navbar-toggler:focus{
+    box-shadow: none;
+}
+
+.navbar-toggler[aria-expanded="true"]{
+    border-color: white;
+}
